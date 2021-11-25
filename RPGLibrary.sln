@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGLibrary", "RPGLibrary\RPGLibrary.csproj", "{2420CADB-F752-475C-ACF4-2A8F7E31F4EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGLibrary.Tests", "RPGLibrary.Tests\RPGLibrary.Tests.csproj", "{40521DBD-549A-45E5-BAB5-4605D07564DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2420CADB-F752-475C-ACF4-2A8F7E31F4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2420CADB-F752-475C-ACF4-2A8F7E31F4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2420CADB-F752-475C-ACF4-2A8F7E31F4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40521DBD-549A-45E5-BAB5-4605D07564DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40521DBD-549A-45E5-BAB5-4605D07564DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40521DBD-549A-45E5-BAB5-4605D07564DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40521DBD-549A-45E5-BAB5-4605D07564DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
